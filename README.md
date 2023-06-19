@@ -1,2 +1,2 @@
 # Student-Directory-App
-This application can be used to manage student data connected to databases using Java Swing and MySQL
+Represents an enhanced version of the app with a graphical user interface (GUI) implemented using Java Swing.
