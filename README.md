@@ -1,21 +1,10 @@
-# App.java
-didalam 'App.java' terdapat Layouts.run() untuk menjalankan proyek kita
+# Student-Directory-App
 
-# com 
-terdapat beberapa package yaitu:
-1. config
-2. controllers
-3. layout
-4. models
+The Student Directory App is a Java application designed to manage student data using Java Swing for the graphical user interface (GUI) and MySQL for the database. It provides an intuitive and user-friendly interface for administrators or teachers to perform various operations related to student management.
 
-## 1. config
-untuk menghubungkan code dengan localhost mysql beserta port dan nama databasenya
+The application consists of two branches besides the main branch:
 
-## 2. Controllers
-berfungsi sebagai pengontrol akses ke database dan terdapat operasi CRUD didalamnya yang terkoneksi database (Insert, Get, Upadate and Delete) 
+1. **Project_1** (First Version without using GUI): This branch represents the initial version of the app, which focuses on the core functionality without a graphical interface. It provides a command-line interface (CLI) for performing operations such as adding, updating, and deleting student records directly through MySQL commands.
 
-## 3.layout
-berfungsi untuk menampilkan pilihan menambahkan(insert), melihat(get), mengubah(update) dan menghapus(delete) data
-
-## 4. Models
-Terdapat sebuah class untuk merepresentasikan data mahasiswa.
+2. **Project_2** (Second Version using GUI): This branch represents an enhanced version of the app with a graphical user interface (GUI) implemented using Java Swing. The GUI offers a more intuitive and interactive way to manage student data. Users can perform operations such as adding, updating, and deleting student records through a user-friendly interface.
+>>>>>>> b5332ee8626b843b2200d07f9605f6659b52da6c
