@@ -1,21 +1,21 @@
 # App.java
-didalam 'App.java' terdapat Layouts.run() untuk menjalankan proyek kita
+Inside 'App.java', there is a method called Layouts.run() to run our project.
 
 # com 
-terdapat beberapa package yaitu:
+There are several packages such as:
 1. config
 2. controllers
 3. layout
 4. models
 
 ## 1. config
-untuk menghubungkan code dengan localhost mysql beserta port dan nama databasenya
+Used to connect the code to the localhost MySQL server, including the port and the database name.
 
 ## 2. Controllers
-berfungsi sebagai pengontrol akses ke database dan terdapat operasi CRUD didalamnya yang terkoneksi database (Insert, Get, Upadate and Delete) 
+Responsible for controlling the access to the database. It contains CRUD operations (Create, Read, Update, and Delete) that are connected to the database.
 
 ## 3.layout
-berfungsi untuk menampilkan pilihan menambahkan(insert), melihat(get), mengubah(update) dan menghapus(delete) data
+Used to display options for adding (inserting), viewing (getting), updating, and deleting data.
 
 ## 4. Models
-Terdapat sebuah class untuk merepresentasikan data mahasiswa.
+Contains a class that represents student data.
