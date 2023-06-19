@@ -1,5 +1,5 @@
 # App.java
-Inside 'App.java', there is a method called Layouts.run() to run our project.
+Inside App.java, there is a method called Layouts.run() to run our project.
 
 # com 
 There are several packages such as:
