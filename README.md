@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # App.java
 didalam 'App.java' terdapat Layouts.run() untuk menjalankan proyek kita
 
@@ -20,7 +19,3 @@ berfungsi untuk menampilkan pilihan menambahkan(insert), melihat(get), mengubah(
 
 ## 4. Models
 Terdapat sebuah class untuk merepresentasikan data mahasiswa.
-=======
-# Student-Directory-App
-This application can be used to manage student data connected to databases using Java Swing and MySQL
->>>>>>> 7c8a22206f6353d0e77627a24a66f32aa613edc2
