@@ -98,7 +98,11 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
+<<<<<<< HEAD
             <Property name="text" type="java.lang.String" value="Students Directory App"/>
+=======
+            <Property name="text" type="java.lang.String" value="MIPA Students Directory"/>
+>>>>>>> 3678ef14852e85b7e1c20bff21b2598591d9d29d
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
               <Dimension value="[74, 16]"/>
             </Property>
