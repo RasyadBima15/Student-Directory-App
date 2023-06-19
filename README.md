@@ -2,7 +2,7 @@
 
 The Student Directory App is a Java application designed to manage student data using Java Swing for the graphical user interface (GUI) and MySQL for the database. It provides an intuitive and user-friendly interface for administrators or teachers to perform various operations related to student management.
 
-The application consists of two branches:
+The application consists of two branches besides the main branch:
 
 1. **Project_1** (First Version without using GUI): This branch represents the initial version of the app, which focuses on the core functionality without a graphical interface. It provides a command-line interface (CLI) for performing operations such as adding, updating, and deleting student records directly through MySQL commands.
 
